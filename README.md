@@ -4,6 +4,8 @@ A highly customizable in-game timer for Minecraft. Place it around your HUD, cho
 
 This fork ports the Fabric version of Advanced Timer 1.0.6 to **Minecraft 26.3** while keeping its 26.2 behavior. The fork has been tested in Minecraft 26.3 by its maintainer.
 
+This mod on  [Modrinth](https://modrinth.com/mod/advanced-timer-lts-fork)
+
 ## Features
 
 - Count-up and configurable countdown modes
